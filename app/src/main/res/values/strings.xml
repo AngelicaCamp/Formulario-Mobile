@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Formulário</string>
+    <string name="nome">Nome:</string>
+    <string name="sexo">Sexo:</string>
+    <string name="masculino">Masculino</string>
+    <string name="feminino">Feminino</string>
+    <string name="email">E-mail:</string>
+    <string name="telefone">Telefone:</string>
+    <string name="preferencias">Preferências:</string>
+    <string name="musica">Musica</string>
+    <string name="cinema">Cinema</string>
+    <string name="esporte">Esporte</string>
+    <string name="gastronomia">Gastronomia</string>
+    <string name="notificacoes">Ativar notificações</string>
+    <string name="exibir">Exibir</string>
+    <string name="limpar">Limpar</string>
+</resources>
